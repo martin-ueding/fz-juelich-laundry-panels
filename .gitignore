@@ -1,0 +1,11 @@
+*-blx.bib
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.jpg
+*.log
+*.out
+*.pdf
+*.run.xml
